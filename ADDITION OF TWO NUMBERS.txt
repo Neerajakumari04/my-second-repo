@@ -1,0 +1,5 @@
+ADDITION OF TWO NUMBERS:
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+sum=a+b:
+print(a+b);
